@@ -31,7 +31,6 @@ def ekstraksi_data():
         magnitudo = None
         ls = None
         bt = None
-        pusat = None
         dirasakan = None
         kedalaman = None
         lokasi = None
